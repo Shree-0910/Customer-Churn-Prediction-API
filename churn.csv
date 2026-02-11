@@ -1,0 +1,2001 @@
+tenure,MonthlyCharges,SupportCalls,Contract,InternetService,TotalCharges,Churn
+52,48,8,One year,Fiber,2496,0
+15,116,5,One year,DSL,1740,0
+61,29,3,Month,No,1769,0
+21,77,2,Two year,Fiber,1617,0
+24,79,3,Month,No,1896,0
+3,40,2,Month,DSL,120,0
+22,47,1,Month,No,1034,0
+53,94,4,Two year,DSL,4982,0
+2,53,1,Month,Fiber,106,0
+30,27,5,Month,DSL,810,0
+38,78,2,Month,Fiber,2964,0
+2,105,5,Month,Fiber,210,0
+64,91,9,One year,DSL,5824,0
+60,68,8,Month,Fiber,4080,0
+21,98,0,One year,No,2058,0
+33,36,5,Month,Fiber,1188,0
+58,79,8,Two year,DSL,4582,0
+22,106,3,One year,No,2332,0
+49,107,1,One year,No,5243,0
+59,64,3,One year,Fiber,3776,0
+42,102,0,One year,Fiber,4284,0
+60,88,2,Two year,DSL,5280,0
+15,51,9,Month,No,765,0
+62,63,8,One year,DSL,3906,0
+62,84,9,Two year,Fiber,5208,0
+47,106,4,One year,No,4982,0
+62,27,5,Month,DSL,1674,0
+51,96,2,One year,DSL,4896,0
+55,91,4,Two year,DSL,5005,0
+64,106,7,Month,DSL,6784,0
+3,62,5,Two year,DSL,186,0
+51,20,3,Month,No,1020,0
+7,70,1,Month,DSL,490,0
+21,43,8,Month,No,903,0
+39,118,0,One year,DSL,4602,0
+18,43,0,Two year,Fiber,774,0
+4,36,3,Two year,Fiber,144,0
+60,24,6,Two year,DSL,1440,0
+14,39,0,Month,Fiber,546,0
+9,40,8,One year,No,360,1
+53,77,3,Month,DSL,4081,0
+2,50,2,Two year,No,100,0
+60,119,0,One year,DSL,7140,0
+71,30,9,One year,Fiber,2130,0
+44,71,3,One year,No,3124,0
+8,34,8,Two year,Fiber,272,1
+47,102,9,One year,Fiber,4794,0
+35,26,5,One year,DSL,910,0
+36,47,5,Month,No,1692,0
+50,70,0,Month,Fiber,3500,0
+4,77,9,One year,DSL,308,1
+2,24,1,One year,DSL,48,0
+6,24,5,Month,DSL,144,0
+54,113,1,Month,Fiber,6102,0
+4,115,2,Month,DSL,460,0
+54,27,3,Two year,No,1458,0
+63,83,4,Two year,No,5229,0
+18,29,8,Month,Fiber,522,0
+44,57,3,One year,No,2508,0
+34,115,8,Month,DSL,3910,0
+62,111,9,Two year,Fiber,6882,0
+14,100,2,One year,DSL,1400,0
+48,114,7,Two year,Fiber,5472,0
+15,27,0,One year,Fiber,405,0
+62,44,8,Two year,DSL,2728,0
+40,92,8,One year,No,3680,0
+53,85,9,One year,No,4505,0
+24,98,1,One year,Fiber,2352,0
+26,69,3,One year,DSL,1794,0
+60,86,7,Two year,DSL,5160,0
+41,68,6,Two year,Fiber,2788,0
+29,55,0,One year,No,1595,0
+15,87,4,One year,DSL,1305,0
+45,97,6,Two year,No,4365,0
+65,60,3,One year,No,3900,0
+71,108,0,One year,Fiber,7668,0
+9,81,8,One year,Fiber,729,1
+1,29,4,Month,No,29,0
+8,40,1,One year,DSL,320,0
+63,55,7,Month,DSL,3465,0
+11,31,1,One year,Fiber,341,0
+8,110,2,Two year,No,880,0
+35,21,9,Month,DSL,735,0
+35,32,0,Month,DSL,1120,0
+33,72,1,One year,Fiber,2376,0
+5,51,6,One year,No,255,1
+41,114,9,Month,DSL,4674,0
+28,35,1,Two year,Fiber,980,0
+7,51,5,Two year,DSL,357,0
+12,51,2,One year,DSL,612,0
+34,117,3,Two year,DSL,3978,0
+33,30,7,Two year,Fiber,990,0
+48,29,2,One year,No,1392,0
+23,34,9,Two year,Fiber,782,0
+62,36,5,One year,No,2232,0
+37,59,0,Month,DSL,2183,0
+44,37,6,One year,No,1628,0
+35,74,7,Month,DSL,2590,0
+65,92,7,Month,DSL,5980,0
+47,44,2,Two year,Fiber,2068,0
+3,78,9,Two year,DSL,234,1
+1,97,0,Two year,Fiber,97,0
+5,108,8,One year,No,540,1
+14,41,5,Two year,No,574,0
+27,49,8,Month,DSL,1323,0
+9,103,6,Two year,Fiber,927,1
+15,104,0,Two year,DSL,1560,0
+42,63,0,One year,Fiber,2646,0
+51,51,5,One year,Fiber,2601,0
+63,70,4,Month,Fiber,4410,0
+52,65,8,One year,No,3380,0
+4,40,1,Two year,Fiber,160,0
+23,118,7,One year,No,2714,0
+15,51,4,Month,Fiber,765,0
+43,113,1,Two year,No,4859,0
+29,58,9,Month,No,1682,0
+36,31,5,One year,No,1116,0
+13,66,9,One year,DSL,858,0
+32,37,7,Month,Fiber,1184,0
+71,40,3,Two year,DSL,2840,0
+59,32,1,One year,Fiber,1888,0
+28,40,4,One year,Fiber,1120,0
+66,27,1,Two year,DSL,1782,0
+42,65,1,One year,No,2730,0
+45,26,5,Month,Fiber,1170,0
+62,42,9,One year,No,2604,0
+57,115,8,One year,DSL,6555,0
+6,94,3,Two year,No,564,0
+28,105,5,Month,Fiber,2940,0
+28,41,6,Two year,Fiber,1148,0
+44,108,5,One year,Fiber,4752,0
+30,41,7,One year,DSL,1230,0
+62,111,3,Two year,Fiber,6882,0
+62,48,0,Two year,DSL,2976,0
+1,32,6,Two year,No,32,1
+27,101,2,Month,Fiber,2727,0
+62,21,5,One year,Fiber,1302,0
+3,48,1,Two year,Fiber,144,0
+70,104,8,One year,No,7280,0
+27,98,0,Month,Fiber,2646,0
+9,71,5,Month,DSL,639,0
+62,46,5,Month,No,2852,0
+37,69,4,Month,No,2553,0
+51,114,4,One year,No,5814,0
+44,98,0,Month,No,4312,0
+24,42,9,Month,No,1008,0
+59,107,4,Two year,DSL,6313,0
+32,63,1,Month,No,2016,0
+52,96,6,Two year,Fiber,4992,0
+62,41,2,Month,No,2542,0
+58,62,3,Month,No,3596,0
+52,56,2,Two year,No,2912,0
+12,80,2,Month,No,960,0
+39,116,3,One year,No,4524,0
+2,75,4,One year,DSL,150,0
+3,22,0,Month,DSL,66,0
+56,82,3,One year,No,4592,0
+59,38,7,Two year,DSL,2242,0
+2,42,9,Month,Fiber,84,1
+2,48,6,Month,No,96,1
+54,49,8,Two year,Fiber,2646,0
+1,58,4,Two year,Fiber,58,0
+19,44,9,Two year,No,836,0
+2,27,3,Month,Fiber,54,0
+53,77,7,Two year,Fiber,4081,0
+44,35,8,Two year,Fiber,1540,0
+32,91,6,One year,No,2912,0
+70,20,6,One year,No,1400,0
+32,24,4,Month,Fiber,768,0
+68,22,3,One year,No,1496,0
+55,84,9,One year,No,4620,0
+56,23,0,Two year,Fiber,1288,0
+17,118,9,Two year,No,2006,0
+38,115,9,One year,DSL,4370,0
+24,83,6,One year,No,1992,0
+69,117,0,One year,DSL,8073,0
+70,108,0,Month,Fiber,7560,0
+11,29,4,Month,No,319,0
+16,40,8,Month,Fiber,640,0
+59,65,5,One year,Fiber,3835,0
+70,110,2,One year,Fiber,7700,0
+3,46,2,Month,Fiber,138,0
+20,85,6,Month,Fiber,1700,0
+59,60,5,One year,No,3540,0
+36,32,8,Two year,DSL,1152,0
+19,28,5,Month,No,532,0
+67,55,4,One year,No,3685,0
+19,105,9,One year,No,1995,0
+20,109,6,Two year,No,2180,0
+71,77,0,One year,DSL,5467,0
+52,73,6,One year,No,3796,0
+33,31,2,Month,Fiber,1023,0
+40,100,8,Month,No,4000,0
+39,97,5,Two year,No,3783,0
+1,33,8,Two year,DSL,33,1
+11,53,4,One year,DSL,583,0
+57,72,6,Month,Fiber,4104,0
+50,39,3,Two year,No,1950,0
+23,94,6,Two year,No,2162,0
+31,35,0,Two year,No,1085,0
+42,114,6,One year,Fiber,4788,0
+7,89,7,Month,DSL,623,1
+16,75,4,Two year,Fiber,1200,0
+60,102,1,Month,No,6120,0
+2,77,4,Two year,DSL,154,0
+1,23,5,Two year,DSL,23,0
+48,23,1,Month,Fiber,1104,0
+12,39,5,Month,DSL,468,0
+69,29,5,Month,DSL,2001,0
+37,43,0,One year,No,1591,0
+32,118,0,Two year,No,3776,0
+9,45,9,One year,DSL,405,1
+19,56,2,Month,DSL,1064,0
+48,104,9,Two year,Fiber,4992,0
+3,73,9,One year,Fiber,219,1
+20,40,2,Two year,DSL,800,0
+24,93,3,One year,No,2232,0
+54,57,1,Month,DSL,3078,0
+33,65,8,One year,DSL,2145,0
+24,23,9,Two year,No,552,0
+36,79,6,Two year,No,2844,0
+38,76,6,Two year,Fiber,2888,0
+25,64,5,Two year,Fiber,1600,0
+18,39,2,Month,Fiber,702,0
+66,36,5,One year,Fiber,2376,0
+54,90,7,Month,No,4860,0
+35,23,7,Month,DSL,805,0
+61,112,8,Month,Fiber,6832,0
+41,33,0,Two year,Fiber,1353,0
+33,22,0,Two year,No,726,0
+68,107,2,Two year,No,7276,0
+33,99,2,One year,DSL,3267,0
+14,77,9,Two year,DSL,1078,0
+21,74,7,One year,No,1554,0
+48,23,9,Two year,Fiber,1104,0
+20,43,0,Two year,Fiber,860,0
+8,53,1,Month,Fiber,424,0
+7,49,1,Month,DSL,343,0
+67,101,2,Month,Fiber,6767,0
+17,38,5,One year,Fiber,646,0
+33,50,0,One year,No,1650,0
+48,79,1,Two year,Fiber,3792,0
+59,79,0,One year,No,4661,0
+22,38,4,Two year,Fiber,836,0
+30,68,6,One year,DSL,2040,0
+38,82,7,One year,Fiber,3116,0
+51,102,9,One year,Fiber,5202,0
+54,41,0,Month,No,2214,0
+8,43,6,One year,No,344,1
+27,95,4,Month,No,2565,0
+27,49,9,Month,Fiber,1323,0
+21,77,0,One year,Fiber,1617,0
+30,50,2,Two year,DSL,1500,0
+28,119,6,Two year,Fiber,3332,0
+64,83,9,Two year,DSL,5312,0
+69,38,0,One year,No,2622,0
+61,67,6,Two year,No,4087,0
+48,64,4,Month,No,3072,0
+19,119,0,Two year,DSL,2261,0
+4,113,0,One year,Fiber,452,0
+35,74,0,Two year,No,2590,0
+64,74,8,Month,Fiber,4736,0
+49,116,2,One year,Fiber,5684,0
+17,37,4,Two year,No,629,0
+44,82,9,One year,DSL,3608,0
+30,111,8,One year,Fiber,3330,0
+46,66,5,One year,No,3036,0
+6,94,8,Two year,Fiber,564,1
+37,76,7,One year,Fiber,2812,0
+24,64,7,Two year,Fiber,1536,0
+46,52,0,Month,Fiber,2392,0
+53,36,8,Two year,Fiber,1908,0
+60,89,5,Month,DSL,5340,0
+63,23,8,Two year,DSL,1449,0
+32,39,2,One year,No,1248,0
+33,66,2,Two year,DSL,2178,0
+67,110,5,One year,DSL,7370,0
+18,34,8,Month,DSL,612,0
+25,89,6,Two year,Fiber,2225,0
+54,66,2,One year,Fiber,3564,0
+58,97,2,Month,No,5626,0
+67,94,1,Month,No,6298,0
+46,28,8,Two year,No,1288,0
+24,109,2,Month,Fiber,2616,0
+32,35,4,One year,DSL,1120,0
+47,88,8,Month,DSL,4136,0
+23,80,7,Month,Fiber,1840,0
+66,29,1,One year,No,1914,0
+27,69,2,Month,No,1863,0
+2,22,1,Month,No,44,0
+17,96,7,Month,Fiber,1632,0
+33,113,5,Month,No,3729,0
+9,89,5,One year,No,801,0
+43,100,8,Month,Fiber,4300,0
+48,70,7,One year,DSL,3360,0
+39,38,3,Month,Fiber,1482,0
+42,61,3,Month,Fiber,2562,0
+26,54,8,Month,Fiber,1404,0
+50,65,0,Month,Fiber,3250,0
+25,45,1,One year,DSL,1125,0
+24,88,1,One year,No,2112,0
+13,112,5,One year,Fiber,1456,0
+60,83,3,Two year,DSL,4980,0
+7,56,9,Month,No,392,1
+57,103,2,Month,No,5871,0
+36,68,2,One year,No,2448,0
+45,40,2,Two year,Fiber,1800,0
+20,93,5,Month,Fiber,1860,0
+65,83,7,One year,No,5395,0
+8,24,6,Month,No,192,1
+16,119,3,Month,No,1904,0
+14,89,3,One year,No,1246,0
+15,109,9,One year,No,1635,0
+66,23,1,Month,No,1518,0
+32,58,0,Month,DSL,1856,0
+63,54,8,One year,No,3402,0
+51,20,1,Month,Fiber,1020,0
+25,43,7,Month,Fiber,1075,0
+58,76,8,One year,Fiber,4408,0
+63,119,3,Month,No,7497,0
+62,89,7,Month,Fiber,5518,0
+22,60,8,Two year,DSL,1320,0
+58,73,9,One year,No,4234,0
+58,65,9,Two year,Fiber,3770,0
+49,79,4,Two year,DSL,3871,0
+52,79,6,Two year,DSL,4108,0
+42,76,9,Month,Fiber,3192,0
+70,50,3,Month,DSL,3500,0
+15,103,0,Two year,Fiber,1545,0
+54,43,2,Two year,DSL,2322,0
+60,108,4,Two year,No,6480,0
+8,55,2,Month,No,440,0
+53,104,6,Two year,No,5512,0
+60,49,8,Two year,No,2940,0
+5,43,5,One year,No,215,0
+68,49,9,One year,Fiber,3332,0
+6,105,0,Month,No,630,0
+47,111,6,One year,No,5217,0
+55,26,2,One year,No,1430,0
+40,54,4,One year,No,2160,0
+52,74,9,Month,DSL,3848,0
+16,111,3,One year,No,1776,0
+13,33,9,Month,No,429,0
+30,29,4,Two year,Fiber,870,0
+19,99,4,One year,DSL,1881,0
+17,35,5,Month,Fiber,595,0
+63,73,9,One year,No,4599,0
+19,114,9,Two year,Fiber,2166,0
+58,108,5,Month,Fiber,6264,0
+55,96,7,Month,No,5280,0
+62,89,7,Month,DSL,5518,0
+23,63,8,Two year,DSL,1449,0
+9,92,7,Two year,Fiber,828,1
+12,64,1,Two year,No,768,0
+1,119,9,Month,Fiber,119,1
+58,75,0,Two year,Fiber,4350,0
+1,103,9,One year,Fiber,103,1
+34,101,1,Two year,No,3434,0
+48,76,1,Month,No,3648,0
+1,40,2,One year,DSL,40,0
+16,87,9,Two year,No,1392,0
+61,69,6,One year,Fiber,4209,0
+64,52,1,One year,Fiber,3328,0
+63,110,0,Month,DSL,6930,0
+69,26,5,One year,No,1794,0
+22,89,8,One year,Fiber,1958,0
+67,34,2,Month,DSL,2278,0
+26,101,5,Month,DSL,2626,0
+16,51,2,Month,Fiber,816,0
+51,94,0,One year,Fiber,4794,0
+57,39,4,One year,No,2223,0
+29,107,9,One year,DSL,3103,0
+69,34,3,Month,Fiber,2346,0
+47,67,6,Two year,DSL,3149,0
+62,90,5,One year,No,5580,0
+69,40,9,Two year,Fiber,2760,0
+16,61,6,Month,No,976,0
+48,45,4,One year,DSL,2160,0
+39,33,3,Two year,No,1287,0
+33,76,6,One year,No,2508,0
+23,56,6,One year,DSL,1288,0
+10,77,5,One year,No,770,0
+69,40,7,Two year,DSL,2760,0
+34,101,3,Month,Fiber,3434,0
+52,88,9,One year,DSL,4576,0
+10,22,4,Month,DSL,220,0
+19,106,3,Month,Fiber,2014,0
+58,109,0,Two year,DSL,6322,0
+1,56,7,Two year,Fiber,56,1
+69,107,0,Month,Fiber,7383,0
+4,68,4,One year,DSL,272,0
+16,38,5,Two year,No,608,0
+24,108,5,One year,No,2592,0
+2,104,4,One year,Fiber,208,0
+32,31,2,One year,No,992,0
+24,80,4,Month,No,1920,0
+12,60,7,One year,DSL,720,0
+50,52,1,Month,Fiber,2600,0
+35,69,5,Month,Fiber,2415,0
+33,87,8,One year,DSL,2871,0
+33,90,7,One year,No,2970,0
+61,105,7,One year,Fiber,6405,0
+51,52,7,One year,No,2652,0
+43,100,6,Month,Fiber,4300,0
+12,43,7,One year,Fiber,516,0
+67,80,5,One year,Fiber,5360,0
+65,80,1,Month,Fiber,5200,0
+33,117,1,Two year,No,3861,0
+40,47,7,Two year,No,1880,0
+43,77,0,Month,No,3311,0
+44,62,5,Two year,No,2728,0
+29,60,5,Month,DSL,1740,0
+13,58,3,One year,Fiber,754,0
+12,105,9,One year,Fiber,1260,0
+46,68,2,Two year,Fiber,3128,0
+2,36,2,One year,DSL,72,0
+35,117,0,Two year,No,4095,0
+8,89,2,Two year,Fiber,712,0
+26,89,3,One year,No,2314,0
+34,117,4,One year,No,3978,0
+7,84,2,Two year,DSL,588,0
+68,93,5,One year,DSL,6324,0
+58,104,4,Month,No,6032,0
+29,24,2,One year,Fiber,696,0
+36,21,5,One year,Fiber,756,0
+21,41,5,Month,DSL,861,0
+36,76,7,One year,DSL,2736,0
+10,85,1,One year,DSL,850,0
+24,93,0,Two year,DSL,2232,0
+64,117,3,One year,DSL,7488,0
+49,35,6,One year,DSL,1715,0
+36,70,9,Month,DSL,2520,0
+24,58,2,Two year,Fiber,1392,0
+23,105,2,Two year,DSL,2415,0
+62,95,4,Two year,DSL,5890,0
+37,107,4,One year,Fiber,3959,0
+12,59,9,Two year,Fiber,708,0
+55,57,2,Month,No,3135,0
+13,79,8,Two year,DSL,1027,0
+23,78,3,Month,DSL,1794,0
+30,29,2,Two year,DSL,870,0
+17,118,1,Two year,DSL,2006,0
+62,83,9,Month,No,5146,0
+13,82,8,Two year,Fiber,1066,0
+59,68,3,Two year,Fiber,4012,0
+19,83,2,Two year,DSL,1577,0
+49,51,6,One year,DSL,2499,0
+12,26,7,Month,DSL,312,0
+61,40,1,Two year,No,2440,0
+19,39,6,Month,No,741,0
+9,45,4,Month,Fiber,405,0
+71,87,4,Month,DSL,6177,0
+28,105,2,Two year,DSL,2940,0
+52,34,4,Two year,DSL,1768,0
+16,104,1,Month,DSL,1664,0
+69,98,3,One year,No,6762,0
+12,105,5,Month,Fiber,1260,0
+25,111,0,One year,Fiber,2775,0
+52,33,9,Month,No,1716,0
+53,46,3,Month,DSL,2438,0
+23,59,5,Month,Fiber,1357,0
+16,77,8,Two year,Fiber,1232,0
+57,47,1,One year,No,2679,0
+39,45,6,One year,DSL,1755,0
+53,82,5,Month,Fiber,4346,0
+42,85,1,Two year,DSL,3570,0
+58,44,7,Two year,Fiber,2552,0
+39,22,6,One year,No,858,0
+14,91,4,Two year,DSL,1274,0
+5,63,4,One year,No,315,0
+35,116,6,One year,Fiber,4060,0
+18,61,8,One year,No,1098,0
+9,118,8,Two year,No,1062,1
+58,25,8,One year,No,1450,0
+17,58,5,One year,Fiber,986,0
+7,71,9,Month,DSL,497,1
+46,42,5,One year,No,1932,0
+13,108,2,One year,DSL,1404,0
+40,69,0,Month,Fiber,2760,0
+42,62,6,Month,DSL,2604,0
+9,38,3,Two year,No,342,0
+50,88,0,One year,No,4400,0
+27,70,7,Two year,No,1890,0
+66,30,5,Two year,No,1980,0
+5,31,5,Month,No,155,0
+29,93,1,Two year,No,2697,0
+37,27,0,One year,Fiber,999,0
+38,43,1,Month,Fiber,1634,0
+8,111,3,One year,Fiber,888,0
+65,60,1,One year,DSL,3900,0
+17,55,0,Month,DSL,935,0
+71,104,6,One year,Fiber,7384,0
+45,91,7,Month,DSL,4095,0
+4,74,5,One year,DSL,296,0
+36,28,3,Month,No,1008,0
+70,66,5,Two year,No,4620,0
+31,34,2,One year,DSL,1054,0
+19,67,7,Month,DSL,1273,0
+61,101,9,One year,Fiber,6161,0
+54,61,1,One year,DSL,3294,0
+39,79,4,One year,No,3081,0
+19,103,0,Month,DSL,1957,0
+39,89,5,Two year,Fiber,3471,0
+67,31,1,Two year,No,2077,0
+45,21,3,Two year,No,945,0
+13,26,5,Month,No,338,0
+58,99,9,Two year,No,5742,0
+20,22,7,Month,DSL,440,0
+61,22,7,One year,Fiber,1342,0
+39,46,5,One year,DSL,1794,0
+1,59,3,Two year,DSL,59,0
+3,52,7,Month,No,156,1
+62,111,7,One year,Fiber,6882,0
+63,20,9,Month,No,1260,0
+25,27,0,Month,DSL,675,0
+56,51,3,One year,DSL,2856,0
+33,67,3,Month,No,2211,0
+38,23,6,One year,DSL,874,0
+6,113,6,One year,DSL,678,1
+58,89,7,One year,No,5162,0
+44,38,4,Month,DSL,1672,0
+45,51,6,One year,Fiber,2295,0
+32,28,7,Month,No,896,0
+45,31,8,One year,Fiber,1395,0
+61,30,2,One year,DSL,1830,0
+47,65,2,Two year,DSL,3055,0
+21,35,3,Two year,No,735,0
+36,20,4,Two year,DSL,720,0
+19,82,9,Month,No,1558,0
+20,40,0,Month,No,800,0
+57,49,6,One year,No,2793,0
+18,32,8,One year,No,576,0
+47,53,7,One year,No,2491,0
+49,23,4,One year,Fiber,1127,0
+14,47,3,Month,No,658,0
+15,114,6,One year,Fiber,1710,0
+31,78,4,One year,DSL,2418,0
+1,46,6,Two year,No,46,1
+54,88,0,One year,DSL,4752,0
+3,44,0,One year,No,132,0
+16,22,9,One year,Fiber,352,0
+57,116,2,Month,Fiber,6612,0
+12,87,1,Two year,Fiber,1044,0
+16,44,1,One year,DSL,704,0
+24,39,6,One year,No,936,0
+28,53,9,Two year,DSL,1484,0
+8,45,1,One year,Fiber,360,0
+36,24,3,Month,DSL,864,0
+8,118,1,One year,Fiber,944,0
+58,80,5,Month,Fiber,4640,0
+60,111,7,Month,Fiber,6660,0
+50,112,9,One year,No,5600,0
+28,28,3,Two year,No,784,0
+41,69,4,Month,Fiber,2829,0
+64,25,3,Two year,DSL,1600,0
+27,102,2,One year,DSL,2754,0
+63,79,4,Month,No,4977,0
+17,63,8,One year,Fiber,1071,0
+33,30,7,Two year,DSL,990,0
+29,85,7,One year,Fiber,2465,0
+13,66,7,One year,DSL,858,0
+46,92,7,Month,No,4232,0
+35,104,6,One year,Fiber,3640,0
+6,107,7,One year,Fiber,642,1
+69,117,7,One year,DSL,8073,0
+47,105,7,Month,DSL,4935,0
+25,22,9,Two year,DSL,550,0
+66,95,6,Two year,Fiber,6270,0
+10,111,0,One year,No,1110,0
+56,49,3,Month,No,2744,0
+30,109,3,One year,DSL,3270,0
+5,40,4,Two year,No,200,0
+33,47,9,Month,DSL,1551,0
+65,109,5,Two year,No,7085,0
+18,81,3,Two year,Fiber,1458,0
+49,52,1,Month,DSL,2548,0
+11,104,5,Month,No,1144,0
+26,54,7,One year,Fiber,1404,0
+63,71,7,One year,No,4473,0
+59,53,6,Two year,Fiber,3127,0
+27,60,5,Month,Fiber,1620,0
+49,70,1,Month,No,3430,0
+33,66,6,One year,No,2178,0
+1,101,4,Two year,Fiber,101,0
+21,77,5,Two year,Fiber,1617,0
+55,94,9,One year,Fiber,5170,0
+6,76,7,Month,DSL,456,1
+69,42,7,One year,Fiber,2898,0
+5,67,2,One year,DSL,335,0
+3,41,6,One year,Fiber,123,1
+53,36,0,One year,DSL,1908,0
+23,88,0,Month,Fiber,2024,0
+53,30,6,One year,Fiber,1590,0
+37,113,9,Month,Fiber,4181,0
+17,34,8,One year,No,578,0
+1,110,6,Two year,No,110,1
+51,54,9,Month,Fiber,2754,0
+45,52,4,Two year,DSL,2340,0
+4,103,7,One year,DSL,412,1
+62,35,1,One year,Fiber,2170,0
+65,53,8,One year,No,3445,0
+32,85,5,Month,DSL,2720,0
+34,118,8,Two year,No,4012,0
+39,59,1,Month,DSL,2301,0
+26,47,2,Month,Fiber,1222,0
+34,66,7,One year,No,2244,0
+54,58,0,Two year,DSL,3132,0
+3,89,9,One year,Fiber,267,1
+50,92,6,Month,Fiber,4600,0
+12,39,6,One year,Fiber,468,0
+65,20,0,Two year,No,1300,0
+54,91,8,One year,No,4914,0
+5,106,7,Two year,Fiber,530,1
+57,82,3,Two year,No,4674,0
+17,86,9,One year,DSL,1462,0
+47,23,4,Month,Fiber,1081,0
+23,77,1,One year,Fiber,1771,0
+14,44,8,Month,No,616,0
+66,66,5,Month,Fiber,4356,0
+51,57,2,One year,DSL,2907,0
+38,34,6,Month,No,1292,0
+64,82,8,Month,No,5248,0
+38,40,2,One year,Fiber,1520,0
+50,118,1,One year,Fiber,5900,0
+30,76,6,One year,Fiber,2280,0
+51,72,6,Month,No,3672,0
+63,65,3,Two year,Fiber,4095,0
+52,33,8,Month,DSL,1716,0
+38,119,7,Two year,Fiber,4522,0
+30,95,0,One year,Fiber,2850,0
+51,36,0,Two year,No,1836,0
+5,58,4,One year,Fiber,290,0
+29,28,5,One year,No,812,0
+4,118,2,Two year,Fiber,472,0
+10,96,8,One year,DSL,960,1
+56,98,9,Two year,DSL,5488,0
+17,101,5,One year,No,1717,0
+17,116,3,Month,No,1972,0
+69,25,6,Month,Fiber,1725,0
+34,110,7,One year,Fiber,3740,0
+6,42,8,One year,DSL,252,1
+53,78,5,Two year,Fiber,4134,0
+66,110,5,Month,DSL,7260,0
+43,117,7,Two year,No,5031,0
+23,65,4,One year,Fiber,1495,0
+55,57,2,One year,No,3135,0
+16,33,2,Two year,Fiber,528,0
+8,119,5,One year,DSL,952,0
+4,91,1,Month,No,364,0
+4,81,5,Two year,No,324,0
+56,54,5,Month,Fiber,3024,0
+25,38,7,Month,No,950,0
+67,49,6,Month,DSL,3283,0
+67,97,7,Two year,No,6499,0
+27,103,8,One year,No,2781,0
+32,44,5,Month,Fiber,1408,0
+50,59,2,Month,No,2950,0
+61,107,9,Month,Fiber,6527,0
+51,33,2,One year,Fiber,1683,0
+19,45,0,One year,No,855,0
+21,106,4,Two year,DSL,2226,0
+5,41,3,One year,Fiber,205,0
+42,67,8,Two year,No,2814,0
+61,102,8,Two year,Fiber,6222,0
+22,70,4,Two year,DSL,1540,0
+21,22,9,Two year,DSL,462,0
+70,61,3,Two year,Fiber,4270,0
+1,38,6,Month,DSL,38,1
+5,92,5,One year,No,460,0
+12,47,3,Month,No,564,0
+46,103,9,Two year,Fiber,4738,0
+34,64,1,One year,DSL,2176,0
+49,90,0,Month,No,4410,0
+45,97,3,Month,No,4365,0
+27,82,3,Two year,No,2214,0
+26,92,0,Month,Fiber,2392,0
+47,38,5,Month,Fiber,1786,0
+56,66,3,Month,No,3696,0
+63,33,0,Month,No,2079,0
+48,57,0,Month,DSL,2736,0
+61,72,0,Two year,DSL,4392,0
+26,80,7,Two year,DSL,2080,0
+36,55,9,Month,Fiber,1980,0
+1,59,7,Two year,No,59,1
+8,100,1,Two year,Fiber,800,0
+52,49,6,One year,No,2548,0
+47,28,7,Month,DSL,1316,0
+56,83,7,Two year,DSL,4648,0
+14,52,9,Two year,DSL,728,0
+28,71,6,Month,DSL,1988,0
+2,108,4,One year,No,216,0
+26,33,0,Month,DSL,858,0
+14,94,8,One year,No,1316,0
+59,72,6,Month,No,4248,0
+56,118,1,Month,Fiber,6608,0
+7,78,5,Month,DSL,546,0
+3,97,1,Month,DSL,291,0
+23,113,0,One year,Fiber,2599,0
+18,60,6,One year,No,1080,0
+38,87,1,Two year,DSL,3306,0
+15,87,1,Month,No,1305,0
+64,111,4,One year,Fiber,7104,0
+28,27,4,One year,No,756,0
+39,21,6,One year,DSL,819,0
+57,105,0,Month,No,5985,0
+17,60,7,Two year,No,1020,0
+44,74,2,One year,DSL,3256,0
+25,35,3,Month,DSL,875,0
+17,112,8,One year,No,1904,0
+13,81,3,One year,No,1053,0
+25,67,9,Two year,Fiber,1675,0
+68,49,4,One year,DSL,3332,0
+10,31,6,One year,No,310,1
+67,54,3,Month,DSL,3618,0
+18,30,0,Month,Fiber,540,0
+34,83,8,Two year,No,2822,0
+8,69,3,Month,No,552,0
+40,104,8,Month,No,4160,0
+42,40,5,Two year,DSL,1680,0
+41,88,0,One year,Fiber,3608,0
+6,67,2,Two year,DSL,402,0
+52,39,1,Month,No,2028,0
+26,86,8,Two year,Fiber,2236,0
+64,63,0,One year,No,4032,0
+59,52,8,Two year,No,3068,0
+56,92,8,Month,DSL,5152,0
+59,80,7,Month,No,4720,0
+70,28,7,Two year,Fiber,1960,0
+33,87,0,One year,No,2871,0
+53,54,7,Two year,No,2862,0
+22,100,9,One year,DSL,2200,0
+21,117,2,One year,Fiber,2457,0
+70,107,6,Two year,DSL,7490,0
+70,115,0,One year,No,8050,0
+4,84,0,Month,DSL,336,0
+62,27,9,Two year,DSL,1674,0
+62,64,4,One year,DSL,3968,0
+24,106,4,Month,DSL,2544,0
+55,66,7,Two year,No,3630,0
+9,59,6,Month,No,531,1
+3,95,7,Month,Fiber,285,1
+31,73,5,Month,DSL,2263,0
+40,95,5,One year,DSL,3800,0
+36,65,1,Two year,Fiber,2340,0
+24,66,5,Two year,DSL,1584,0
+6,34,4,One year,Fiber,204,0
+66,38,2,Two year,No,2508,0
+4,45,5,Month,Fiber,180,0
+6,71,7,Two year,DSL,426,1
+51,112,8,One year,Fiber,5712,0
+62,41,0,Month,No,2542,0
+57,40,2,One year,DSL,2280,0
+66,70,2,Month,No,4620,0
+8,57,7,Month,No,456,1
+26,39,0,Two year,Fiber,1014,0
+51,48,4,Month,No,2448,0
+45,70,2,One year,DSL,3150,0
+44,23,1,Two year,No,1012,0
+5,74,7,One year,No,370,1
+70,90,2,Month,Fiber,6300,0
+26,111,6,One year,No,2886,0
+68,47,0,One year,Fiber,3196,0
+19,23,5,Month,Fiber,437,0
+20,41,2,Two year,DSL,820,0
+12,95,7,One year,DSL,1140,0
+47,64,5,Month,DSL,3008,0
+1,86,1,Two year,DSL,86,0
+14,105,5,Two year,Fiber,1470,0
+64,85,6,Two year,No,5440,0
+38,107,4,One year,DSL,4066,0
+37,53,2,One year,DSL,1961,0
+11,110,3,One year,DSL,1210,0
+3,74,3,Two year,No,222,0
+33,20,5,One year,DSL,660,0
+6,91,9,Month,No,546,1
+50,106,0,One year,Fiber,5300,0
+10,57,3,One year,Fiber,570,0
+5,25,9,Two year,Fiber,125,1
+23,105,3,One year,No,2415,0
+10,44,9,Month,DSL,440,1
+44,101,0,Two year,DSL,4444,0
+2,36,8,Month,DSL,72,1
+13,80,3,Two year,DSL,1040,0
+40,31,6,Two year,DSL,1240,0
+2,25,2,One year,No,50,0
+65,109,9,Month,Fiber,7085,0
+63,46,2,Two year,DSL,2898,0
+17,27,7,One year,Fiber,459,0
+9,102,7,Two year,No,918,1
+15,84,0,Two year,No,1260,0
+24,76,9,Two year,DSL,1824,0
+38,112,1,Two year,No,4256,0
+35,118,7,Two year,Fiber,4130,0
+49,59,0,Two year,DSL,2891,0
+69,33,7,One year,DSL,2277,0
+62,54,7,Two year,Fiber,3348,0
+60,67,1,Month,DSL,4020,0
+50,103,3,One year,DSL,5150,0
+9,75,5,Month,Fiber,675,0
+34,68,8,Two year,DSL,2312,0
+35,32,7,Month,DSL,1120,0
+1,80,7,Two year,Fiber,80,1
+40,68,6,Two year,No,2720,0
+64,65,8,One year,Fiber,4160,0
+22,81,1,One year,DSL,1782,0
+60,27,2,Two year,Fiber,1620,0
+64,62,9,One year,DSL,3968,0
+11,39,7,Month,DSL,429,1
+14,116,5,One year,Fiber,1624,0
+60,109,9,One year,DSL,6540,0
+30,58,8,Month,No,1740,0
+35,104,9,One year,DSL,3640,0
+37,68,3,Two year,Fiber,2516,0
+5,83,7,Month,No,415,1
+26,81,9,Two year,No,2106,0
+62,73,2,Month,DSL,4526,0
+4,28,2,Two year,Fiber,112,0
+42,107,7,Two year,DSL,4494,0
+18,56,4,One year,DSL,1008,0
+40,68,2,Two year,Fiber,2720,0
+39,60,9,One year,Fiber,2340,0
+14,36,0,Month,DSL,504,0
+32,107,2,Two year,No,3424,0
+51,40,8,Two year,DSL,2040,0
+38,70,4,Month,No,2660,0
+23,78,9,Month,DSL,1794,0
+63,58,1,Two year,Fiber,3654,0
+15,74,6,Month,No,1110,0
+25,60,1,One year,Fiber,1500,0
+17,58,3,Month,Fiber,986,0
+66,32,6,Month,Fiber,2112,0
+53,83,3,Two year,Fiber,4399,0
+51,30,6,One year,Fiber,1530,0
+39,38,6,Month,DSL,1482,0
+51,30,0,One year,No,1530,0
+70,96,5,One year,DSL,6720,0
+6,65,8,One year,DSL,390,1
+67,64,1,Two year,DSL,4288,0
+7,20,2,Month,Fiber,140,0
+51,59,9,Two year,DSL,3009,0
+42,38,4,Month,No,1596,0
+64,95,8,Month,DSL,6080,0
+15,91,3,Two year,Fiber,1365,0
+29,91,0,One year,No,2639,0
+33,80,3,One year,No,2640,0
+27,31,5,Month,No,837,0
+36,80,4,Two year,No,2880,0
+29,52,0,One year,DSL,1508,0
+38,64,3,One year,Fiber,2432,0
+57,109,5,Month,No,6213,0
+27,111,9,Month,No,2997,0
+55,88,9,Two year,Fiber,4840,0
+33,27,3,Month,DSL,891,0
+68,44,8,One year,No,2992,0
+66,110,4,One year,DSL,7260,0
+10,65,7,One year,DSL,650,1
+5,106,8,One year,DSL,530,1
+38,49,9,Two year,DSL,1862,0
+13,66,4,Two year,No,858,0
+31,106,5,Month,No,3286,0
+47,68,0,Month,DSL,3196,0
+52,66,6,Month,DSL,3432,0
+56,103,3,Two year,Fiber,5768,0
+15,101,1,One year,Fiber,1515,0
+29,37,4,Month,Fiber,1073,0
+8,85,2,One year,No,680,0
+5,87,5,Month,Fiber,435,0
+29,113,7,Month,No,3277,0
+47,52,6,Month,No,2444,0
+68,55,2,Month,No,3740,0
+45,101,7,Month,No,4545,0
+2,38,1,One year,Fiber,76,0
+27,47,9,Month,DSL,1269,0
+36,59,8,One year,DSL,2124,0
+36,103,3,Two year,DSL,3708,0
+26,116,0,Month,Fiber,3016,0
+43,95,7,One year,DSL,4085,0
+27,34,6,Two year,Fiber,918,0
+69,60,4,Two year,Fiber,4140,0
+20,58,9,Two year,Fiber,1160,0
+11,21,4,One year,DSL,231,0
+38,82,6,Month,DSL,3116,0
+6,48,4,Month,DSL,288,0
+23,93,7,One year,No,2139,0
+47,85,5,Month,Fiber,3995,0
+46,70,4,One year,No,3220,0
+12,94,8,Month,Fiber,1128,0
+13,96,1,Two year,DSL,1248,0
+62,29,0,Month,Fiber,1798,0
+60,33,7,One year,Fiber,1980,0
+43,101,2,One year,No,4343,0
+68,70,6,Two year,Fiber,4760,0
+5,92,9,One year,DSL,460,1
+37,58,7,Month,Fiber,2146,0
+31,47,5,Month,Fiber,1457,0
+9,22,9,Two year,Fiber,198,1
+51,103,8,One year,No,5253,0
+29,89,6,Two year,Fiber,2581,0
+40,46,9,Month,Fiber,1840,0
+41,21,4,Two year,No,861,0
+11,112,7,One year,No,1232,1
+23,57,1,Two year,No,1311,0
+1,22,6,One year,No,22,1
+46,35,3,One year,DSL,1610,0
+21,113,8,Month,DSL,2373,0
+36,59,0,Month,Fiber,2124,0
+54,21,6,Month,DSL,1134,0
+57,100,5,One year,Fiber,5700,0
+1,60,7,Two year,DSL,60,1
+63,31,4,One year,No,1953,0
+54,54,0,Month,No,2916,0
+55,84,0,Month,DSL,4620,0
+40,74,8,Two year,DSL,2960,0
+15,64,9,Month,Fiber,960,0
+21,98,5,Month,Fiber,2058,0
+47,109,9,Month,Fiber,5123,0
+53,104,4,Two year,No,5512,0
+9,81,0,One year,No,729,0
+52,68,5,Month,No,3536,0
+57,114,5,Two year,No,6498,0
+26,44,2,Month,Fiber,1144,0
+41,42,7,Two year,No,1722,0
+35,43,0,Month,No,1505,0
+63,57,0,Two year,No,3591,0
+25,47,5,Month,No,1175,0
+38,40,9,One year,DSL,1520,0
+2,73,0,Month,Fiber,146,0
+7,37,5,Two year,Fiber,259,0
+34,55,0,Month,No,1870,0
+17,118,5,One year,DSL,2006,0
+43,64,2,Month,Fiber,2752,0
+59,92,7,Two year,Fiber,5428,0
+51,72,5,Two year,No,3672,0
+54,49,0,One year,No,2646,0
+24,79,4,Two year,Fiber,1896,0
+25,117,7,Month,Fiber,2925,0
+71,51,2,Month,DSL,3621,0
+52,86,5,Month,Fiber,4472,0
+70,86,4,Two year,Fiber,6020,0
+33,47,5,Month,No,1551,0
+49,63,9,Month,Fiber,3087,0
+29,98,0,Month,No,2842,0
+63,60,6,One year,Fiber,3780,0
+22,82,8,Two year,Fiber,1804,0
+26,42,1,Two year,Fiber,1092,0
+28,94,9,Two year,DSL,2632,0
+49,67,4,One year,No,3283,0
+71,51,9,Two year,DSL,3621,0
+49,76,3,One year,Fiber,3724,0
+20,119,5,One year,DSL,2380,0
+63,52,5,Two year,No,3276,0
+61,43,1,Month,Fiber,2623,0
+49,58,1,Month,DSL,2842,0
+71,53,3,Two year,DSL,3763,0
+1,75,0,Two year,No,75,0
+13,47,8,One year,DSL,611,0
+51,56,6,Two year,No,2856,0
+56,26,6,One year,Fiber,1456,0
+62,87,2,Two year,Fiber,5394,0
+32,56,2,Month,DSL,1792,0
+30,75,0,Month,Fiber,2250,0
+29,84,2,Two year,Fiber,2436,0
+49,84,2,One year,DSL,4116,0
+45,66,3,Month,Fiber,2970,0
+30,39,3,One year,DSL,1170,0
+16,38,2,Two year,No,608,0
+40,48,9,Two year,No,1920,0
+19,93,7,Month,No,1767,0
+18,79,7,Two year,DSL,1422,0
+1,37,0,Month,DSL,37,0
+47,111,6,One year,Fiber,5217,0
+66,54,1,Month,Fiber,3564,0
+38,62,0,Month,Fiber,2356,0
+51,114,2,One year,Fiber,5814,0
+63,110,3,Month,Fiber,6930,0
+4,30,5,Month,DSL,120,0
+1,68,9,Two year,DSL,68,1
+8,57,4,One year,No,456,0
+29,83,3,Month,No,2407,0
+55,88,7,One year,No,4840,0
+3,27,3,One year,No,81,0
+32,53,9,Month,DSL,1696,0
+10,67,1,Two year,DSL,670,0
+34,75,2,One year,DSL,2550,0
+55,95,5,Month,Fiber,5225,0
+32,84,7,One year,Fiber,2688,0
+50,50,7,Two year,No,2500,0
+7,23,8,Two year,Fiber,161,1
+8,69,6,Two year,DSL,552,1
+65,88,1,Month,No,5720,0
+57,49,7,Month,No,2793,0
+67,107,6,Two year,Fiber,7169,0
+59,78,7,Month,No,4602,0
+54,86,2,Two year,Fiber,4644,0
+67,94,6,Month,Fiber,6298,0
+51,64,9,Two year,No,3264,0
+8,23,8,One year,Fiber,184,1
+34,45,2,Two year,Fiber,1530,0
+35,46,9,Two year,Fiber,1610,0
+32,65,5,Month,Fiber,2080,0
+46,83,1,Month,No,3818,0
+16,110,1,Month,DSL,1760,0
+68,70,4,Month,DSL,4760,0
+37,69,4,Month,Fiber,2553,0
+54,25,6,Month,Fiber,1350,0
+14,78,1,One year,Fiber,1092,0
+55,34,6,Two year,DSL,1870,0
+48,49,4,Two year,Fiber,2352,0
+7,61,5,Two year,No,427,0
+7,56,7,One year,No,392,1
+33,61,9,Two year,No,2013,0
+23,54,3,One year,DSL,1242,0
+19,106,6,One year,Fiber,2014,0
+19,25,5,One year,Fiber,475,0
+36,87,9,Two year,Fiber,3132,0
+29,37,1,One year,DSL,1073,0
+60,92,7,Two year,DSL,5520,0
+2,48,9,Two year,DSL,96,1
+1,96,8,Month,DSL,96,1
+47,78,4,Month,No,3666,0
+69,66,9,One year,DSL,4554,0
+20,36,3,One year,DSL,720,0
+11,115,5,Two year,DSL,1265,0
+2,41,7,One year,Fiber,82,1
+67,87,2,One year,Fiber,5829,0
+12,88,9,Two year,Fiber,1056,0
+20,56,0,One year,No,1120,0
+5,68,3,One year,No,340,0
+37,32,3,Two year,DSL,1184,0
+38,53,0,Two year,Fiber,2014,0
+9,105,8,Month,No,945,1
+53,72,2,Two year,Fiber,3816,0
+44,106,4,Month,No,4664,0
+24,70,5,One year,No,1680,0
+30,22,7,Two year,DSL,660,0
+59,61,5,Two year,DSL,3599,0
+14,117,2,Two year,No,1638,0
+9,51,5,One year,DSL,459,0
+40,70,0,Month,No,2800,0
+66,104,3,One year,No,6864,0
+25,65,5,One year,Fiber,1625,0
+22,40,6,Two year,DSL,880,0
+4,63,9,Month,DSL,252,1
+26,30,2,One year,DSL,780,0
+58,87,8,Two year,Fiber,5046,0
+29,20,6,One year,Fiber,580,0
+37,111,0,One year,Fiber,4107,0
+70,82,1,Two year,DSL,5740,0
+18,43,0,Two year,DSL,774,0
+42,118,8,Month,DSL,4956,0
+41,32,8,One year,Fiber,1312,0
+38,117,6,Two year,Fiber,4446,0
+34,30,9,Two year,No,1020,0
+17,119,2,Month,Fiber,2023,0
+37,70,4,Month,No,2590,0
+25,36,3,Two year,DSL,900,0
+27,118,6,Month,Fiber,3186,0
+57,101,8,Two year,DSL,5757,0
+31,105,1,One year,DSL,3255,0
+6,43,7,Month,DSL,258,1
+40,38,8,One year,DSL,1520,0
+12,56,9,One year,Fiber,672,0
+53,104,9,One year,DSL,5512,0
+71,27,8,Two year,No,1917,0
+10,47,9,One year,Fiber,470,1
+45,24,6,One year,DSL,1080,0
+17,36,8,One year,Fiber,612,0
+26,55,8,Two year,No,1430,0
+62,38,2,One year,DSL,2356,0
+46,83,3,One year,No,3818,0
+64,110,1,Month,DSL,7040,0
+2,117,9,Two year,No,234,1
+54,30,2,One year,DSL,1620,0
+65,73,4,Month,Fiber,4745,0
+51,64,4,Two year,DSL,3264,0
+53,66,5,Two year,Fiber,3498,0
+36,31,6,Two year,DSL,1116,0
+26,40,6,Two year,DSL,1040,0
+29,30,0,Two year,No,870,0
+21,111,1,Two year,No,2331,0
+11,24,8,One year,No,264,1
+40,100,9,One year,DSL,4000,0
+11,75,1,One year,DSL,825,0
+36,39,5,One year,DSL,1404,0
+59,60,0,Month,Fiber,3540,0
+39,65,2,One year,Fiber,2535,0
+54,31,1,Two year,DSL,1674,0
+55,89,2,One year,No,4895,0
+24,36,4,One year,No,864,0
+22,38,9,Two year,No,836,0
+69,45,5,One year,DSL,3105,0
+56,67,8,One year,No,3752,0
+33,71,9,One year,DSL,2343,0
+36,115,3,Month,Fiber,4140,0
+20,89,6,One year,No,1780,0
+62,74,5,Two year,Fiber,4588,0
+26,119,1,Two year,No,3094,0
+66,94,9,One year,DSL,6204,0
+40,52,7,One year,DSL,2080,0
+17,81,6,One year,DSL,1377,0
+1,107,6,Two year,DSL,107,1
+61,42,7,Two year,No,2562,0
+43,34,0,Month,Fiber,1462,0
+42,46,0,Month,DSL,1932,0
+25,94,7,Month,No,2350,0
+39,83,3,Two year,Fiber,3237,0
+35,100,4,Month,DSL,3500,0
+3,70,7,One year,Fiber,210,1
+44,72,4,One year,DSL,3168,0
+51,97,9,Two year,Fiber,4947,0
+12,110,3,Month,Fiber,1320,0
+19,101,5,One year,DSL,1919,0
+44,111,4,Two year,No,4884,0
+59,70,6,Month,Fiber,4130,0
+49,66,9,One year,DSL,3234,0
+61,23,6,Month,Fiber,1403,0
+17,26,3,Two year,Fiber,442,0
+57,54,4,Month,No,3078,0
+55,67,2,Two year,Fiber,3685,0
+47,92,3,Month,Fiber,4324,0
+12,91,3,One year,DSL,1092,0
+62,64,2,Two year,DSL,3968,0
+8,100,9,Two year,No,800,1
+21,100,4,Two year,Fiber,2100,0
+70,116,4,Month,Fiber,8120,0
+25,115,6,Month,Fiber,2875,0
+12,91,3,One year,No,1092,0
+15,38,3,Two year,Fiber,570,0
+59,82,8,Two year,DSL,4838,0
+26,57,5,Month,No,1482,0
+26,86,3,Month,DSL,2236,0
+47,78,1,One year,DSL,3666,0
+32,88,5,One year,No,2816,0
+10,32,1,Month,DSL,320,0
+16,66,4,Two year,Fiber,1056,0
+71,80,5,One year,No,5680,0
+17,50,3,Month,DSL,850,0
+23,99,2,Month,Fiber,2277,0
+26,115,6,Two year,Fiber,2990,0
+7,41,1,Month,DSL,287,0
+14,112,5,Month,Fiber,1568,0
+7,105,3,One year,No,735,0
+9,62,5,Month,DSL,558,0
+48,86,3,Month,Fiber,4128,0
+59,73,3,One year,Fiber,4307,0
+39,29,3,Two year,DSL,1131,0
+18,61,8,Two year,DSL,1098,0
+59,83,6,One year,DSL,4897,0
+17,40,2,One year,DSL,680,0
+14,99,2,Two year,No,1386,0
+31,95,5,Two year,DSL,2945,0
+24,85,5,Two year,No,2040,0
+60,60,3,Two year,No,3600,0
+45,43,8,Two year,DSL,1935,0
+3,54,3,One year,No,162,0
+37,75,8,Month,DSL,2775,0
+43,49,3,Two year,DSL,2107,0
+40,76,1,Two year,Fiber,3040,0
+55,113,1,Month,DSL,6215,0
+39,66,4,Month,Fiber,2574,0
+15,54,3,Month,No,810,0
+4,38,6,Month,Fiber,152,1
+25,27,4,Month,No,675,0
+13,45,5,Month,DSL,585,0
+33,90,9,One year,No,2970,0
+16,49,3,Month,No,784,0
+42,26,1,Month,DSL,1092,0
+66,86,9,One year,No,5676,0
+55,84,8,Month,DSL,4620,0
+42,55,9,Two year,Fiber,2310,0
+34,44,6,Two year,DSL,1496,0
+30,56,3,Month,DSL,1680,0
+13,20,2,One year,No,260,0
+13,34,9,Two year,Fiber,442,0
+18,56,2,One year,DSL,1008,0
+32,32,8,Two year,Fiber,1024,0
+39,27,4,Month,Fiber,1053,0
+46,24,2,One year,No,1104,0
+29,79,4,One year,DSL,2291,0
+62,92,1,One year,No,5704,0
+62,20,3,Two year,DSL,1240,0
+57,55,9,Two year,Fiber,3135,0
+16,54,1,Two year,DSL,864,0
+56,85,1,Month,DSL,4760,0
+10,82,7,Two year,Fiber,820,1
+30,42,0,Month,Fiber,1260,0
+25,28,6,One year,DSL,700,0
+5,53,4,One year,No,265,0
+65,65,7,Month,DSL,4225,0
+49,97,0,Two year,Fiber,4753,0
+3,23,6,Month,No,69,1
+45,49,4,One year,Fiber,2205,0
+14,114,3,One year,Fiber,1596,0
+30,94,6,Month,No,2820,0
+68,118,9,Two year,Fiber,8024,0
+18,91,1,Two year,Fiber,1638,0
+62,22,0,Month,Fiber,1364,0
+37,33,0,Month,Fiber,1221,0
+25,79,0,Two year,Fiber,1975,0
+48,96,4,One year,Fiber,4608,0
+65,64,9,Month,Fiber,4160,0
+53,115,6,Two year,Fiber,6095,0
+15,53,1,Two year,Fiber,795,0
+49,64,9,One year,DSL,3136,0
+68,80,7,One year,DSL,5440,0
+12,102,3,One year,Fiber,1224,0
+59,35,2,One year,DSL,2065,0
+37,85,9,One year,No,3145,0
+61,59,7,Month,DSL,3599,0
+43,36,1,Two year,Fiber,1548,0
+70,53,2,Month,Fiber,3710,0
+39,35,2,Month,DSL,1365,0
+56,79,9,Month,Fiber,4424,0
+63,85,0,Month,No,5355,0
+46,85,5,Month,No,3910,0
+11,109,1,One year,Fiber,1199,0
+62,32,0,One year,No,1984,0
+25,75,1,Two year,No,1875,0
+71,50,5,Month,DSL,3550,0
+52,53,3,Two year,No,2756,0
+4,58,5,One year,DSL,232,0
+59,86,8,One year,Fiber,5074,0
+20,27,9,One year,DSL,540,0
+63,106,9,Month,Fiber,6678,0
+54,97,7,Month,Fiber,5238,0
+57,74,0,One year,Fiber,4218,0
+41,46,7,Two year,Fiber,1886,0
+3,112,8,Two year,Fiber,336,1
+6,72,5,One year,DSL,432,0
+5,58,9,Two year,Fiber,290,1
+5,84,4,One year,No,420,0
+54,36,5,Two year,No,1944,0
+47,49,5,One year,Fiber,2303,0
+49,72,8,Two year,No,3528,0
+9,32,3,Month,DSL,288,0
+20,40,1,One year,DSL,800,0
+61,38,8,One year,Fiber,2318,0
+35,72,1,Two year,Fiber,2520,0
+50,38,9,One year,Fiber,1900,0
+62,76,8,One year,No,4712,0
+17,44,1,One year,No,748,0
+3,105,7,Month,DSL,315,1
+32,50,8,Month,No,1600,0
+13,100,9,Two year,DSL,1300,0
+68,74,8,Month,No,5032,0
+14,42,9,Two year,DSL,588,0
+11,51,8,Month,Fiber,561,1
+56,81,1,Two year,No,4536,0
+67,93,3,Month,DSL,6231,0
+29,29,6,Month,No,841,0
+9,119,1,Two year,Fiber,1071,0
+67,91,0,One year,DSL,6097,0
+25,73,2,One year,No,1825,0
+42,71,3,Month,No,2982,0
+9,39,7,Two year,Fiber,351,1
+40,51,5,One year,Fiber,2040,0
+25,33,1,Two year,DSL,825,0
+5,69,8,One year,No,345,1
+11,47,1,Two year,No,517,0
+59,72,4,Month,Fiber,4248,0
+38,43,3,Two year,Fiber,1634,0
+5,98,6,One year,DSL,490,1
+48,41,7,Month,No,1968,0
+18,49,4,Two year,No,882,0
+70,82,9,One year,DSL,5740,0
+37,23,4,Month,DSL,851,0
+60,96,1,Two year,Fiber,5760,0
+48,78,7,One year,Fiber,3744,0
+28,106,1,Two year,DSL,2968,0
+69,27,9,Two year,DSL,1863,0
+40,101,5,Month,No,4040,0
+45,31,7,Month,DSL,1395,0
+62,50,5,One year,DSL,3100,0
+58,97,3,Month,No,5626,0
+67,53,3,One year,DSL,3551,0
+56,101,5,Two year,Fiber,5656,0
+40,117,3,Two year,Fiber,4680,0
+40,94,7,One year,No,3760,0
+33,95,8,Two year,DSL,3135,0
+6,68,0,Month,Fiber,408,0
+19,98,3,Two year,Fiber,1862,0
+40,76,3,Month,Fiber,3040,0
+59,114,1,One year,Fiber,6726,0
+59,112,5,One year,DSL,6608,0
+48,45,2,Two year,DSL,2160,0
+41,37,6,Two year,DSL,1517,0
+13,115,4,Month,DSL,1495,0
+45,105,3,Month,Fiber,4725,0
+53,57,4,Two year,No,3021,0
+42,100,7,Two year,No,4200,0
+63,106,2,One year,Fiber,6678,0
+27,107,6,One year,Fiber,2889,0
+38,69,5,One year,No,2622,0
+60,27,0,Two year,No,1620,0
+7,60,6,Two year,Fiber,420,1
+5,25,6,Two year,Fiber,125,1
+45,88,0,One year,DSL,3960,0
+58,63,8,Two year,DSL,3654,0
+31,83,5,Month,No,2573,0
+23,48,1,Two year,Fiber,1104,0
+42,47,4,Two year,No,1974,0
+10,30,3,Two year,DSL,300,0
+32,84,6,Two year,DSL,2688,0
+53,38,7,Two year,No,2014,0
+30,28,0,Month,DSL,840,0
+39,46,4,Month,Fiber,1794,0
+31,53,2,Two year,No,1643,0
+2,63,0,One year,Fiber,126,0
+12,87,2,Two year,Fiber,1044,0
+39,119,5,Two year,DSL,4641,0
+66,101,6,Two year,Fiber,6666,0
+13,34,7,One year,No,442,0
+46,70,3,One year,Fiber,3220,0
+27,32,2,One year,Fiber,864,0
+17,102,4,Month,Fiber,1734,0
+60,68,8,One year,Fiber,4080,0
+64,89,5,Month,Fiber,5696,0
+35,75,8,Month,DSL,2625,0
+70,95,5,One year,No,6650,0
+30,70,1,One year,DSL,2100,0
+71,56,4,One year,No,3976,0
+63,36,8,Month,No,2268,0
+28,77,7,Two year,No,2156,0
+60,106,6,One year,No,6360,0
+37,109,0,One year,No,4033,0
+22,48,3,One year,Fiber,1056,0
+68,52,6,Month,DSL,3536,0
+20,79,6,Month,DSL,1580,0
+68,110,5,Two year,Fiber,7480,0
+64,108,7,One year,No,6912,0
+17,74,5,Month,DSL,1258,0
+12,29,9,Two year,Fiber,348,0
+22,66,2,One year,Fiber,1452,0
+17,42,3,Month,DSL,714,0
+10,104,2,One year,DSL,1040,0
+65,40,0,One year,No,2600,0
+22,32,9,Month,No,704,0
+50,52,4,Month,DSL,2600,0
+14,43,0,Month,No,602,0
+64,30,0,One year,Fiber,1920,0
+47,36,1,One year,No,1692,0
+29,87,3,Two year,No,2523,0
+36,66,5,One year,Fiber,2376,0
+52,44,7,Month,No,2288,0
+7,113,2,One year,Fiber,791,0
+29,92,0,Two year,No,2668,0
+11,40,2,Two year,DSL,440,0
+33,103,2,Month,No,3399,0
+6,102,4,Month,DSL,612,0
+32,102,3,Two year,DSL,3264,0
+51,31,3,Two year,DSL,1581,0
+58,56,8,Two year,DSL,3248,0
+26,61,6,Month,DSL,1586,0
+46,36,3,Two year,Fiber,1656,0
+29,67,2,Two year,Fiber,1943,0
+4,47,5,Month,Fiber,188,0
+13,60,2,One year,DSL,780,0
+39,118,5,One year,No,4602,0
+15,66,8,Two year,Fiber,990,0
+29,37,5,One year,No,1073,0
+29,97,3,One year,No,2813,0
+32,118,4,One year,DSL,3776,0
+2,90,5,One year,DSL,180,0
+47,32,2,Two year,DSL,1504,0
+22,101,7,One year,Fiber,2222,0
+27,32,3,One year,DSL,864,0
+67,119,7,Month,Fiber,7973,0
+56,50,9,Two year,Fiber,2800,0
+21,21,9,Month,Fiber,441,0
+47,35,2,Month,Fiber,1645,0
+59,28,9,Two year,DSL,1652,0
+6,92,6,One year,Fiber,552,1
+19,57,8,Month,DSL,1083,0
+57,94,3,Two year,DSL,5358,0
+69,73,7,One year,Fiber,5037,0
+3,75,2,Two year,DSL,225,0
+1,105,6,Month,No,105,1
+58,116,2,One year,DSL,6728,0
+38,119,6,One year,DSL,4522,0
+15,106,9,Two year,Fiber,1590,0
+34,64,9,One year,Fiber,2176,0
+61,53,5,Month,DSL,3233,0
+35,28,1,Month,Fiber,980,0
+64,107,2,Month,No,6848,0
+25,27,5,Two year,No,675,0
+24,26,3,One year,Fiber,624,0
+12,55,5,One year,DSL,660,0
+18,37,0,One year,No,666,0
+15,22,9,Month,No,330,0
+27,47,0,One year,DSL,1269,0
+60,89,2,Month,Fiber,5340,0
+46,63,7,One year,No,2898,0
+17,40,7,Month,DSL,680,0
+53,47,3,One year,DSL,2491,0
+8,73,5,Two year,No,584,0
+27,73,7,Two year,Fiber,1971,0
+46,84,6,Month,No,3864,0
+50,119,6,Month,DSL,5950,0
+71,40,3,One year,No,2840,0
+3,118,8,One year,Fiber,354,1
+64,32,9,Two year,DSL,2048,0
+44,76,5,One year,Fiber,3344,0
+53,68,2,Month,No,3604,0
+24,73,4,Month,No,1752,0
+60,29,4,Month,Fiber,1740,0
+3,72,4,Month,No,216,0
+20,63,7,Month,Fiber,1260,0
+46,66,8,Two year,No,3036,0
+15,72,8,Two year,Fiber,1080,0
+25,93,5,Month,Fiber,2325,0
+71,65,5,One year,DSL,4615,0
+17,32,8,Month,DSL,544,0
+9,56,3,Two year,Fiber,504,0
+38,43,5,Month,No,1634,0
+48,21,3,Two year,No,1008,0
+60,105,0,Two year,No,6300,0
+63,100,6,Month,Fiber,6300,0
+2,119,9,Month,Fiber,238,1
+11,33,5,One year,Fiber,363,0
+64,29,8,Two year,Fiber,1856,0
+21,54,6,One year,DSL,1134,0
+18,44,6,Month,Fiber,792,0
+64,22,1,Two year,No,1408,0
+38,36,8,One year,DSL,1368,0
+32,31,9,One year,No,992,0
+11,73,8,One year,Fiber,803,1
+45,43,5,Month,DSL,1935,0
+33,48,2,Month,Fiber,1584,0
+41,62,0,Month,DSL,2542,0
+8,44,3,Two year,No,352,0
+11,119,2,Month,Fiber,1309,0
+51,79,0,Two year,Fiber,4029,0
+41,109,2,One year,DSL,4469,0
+17,84,3,One year,DSL,1428,0
+46,103,7,Month,Fiber,4738,0
+32,47,8,One year,DSL,1504,0
+54,35,2,Month,Fiber,1890,0
+20,66,5,Two year,DSL,1320,0
+33,100,9,One year,No,3300,0
+40,111,4,Month,DSL,4440,0
+32,77,5,One year,No,2464,0
+2,95,3,One year,DSL,190,0
+33,46,9,Month,DSL,1518,0
+30,72,5,One year,Fiber,2160,0
+33,61,6,One year,DSL,2013,0
+26,78,8,One year,DSL,2028,0
+22,66,9,One year,No,1452,0
+66,113,6,Two year,DSL,7458,0
+38,53,5,One year,Fiber,2014,0
+46,56,0,One year,No,2576,0
+15,25,1,Month,Fiber,375,0
+44,26,0,Two year,Fiber,1144,0
+49,115,8,Month,Fiber,5635,0
+61,115,9,Month,Fiber,7015,0
+67,44,9,Month,No,2948,0
+6,52,8,Two year,DSL,312,1
+9,74,6,Month,Fiber,666,1
+6,77,1,Month,No,462,0
+32,26,5,Month,Fiber,832,0
+41,76,3,One year,DSL,3116,0
+8,31,0,Month,No,248,0
+50,35,0,Two year,No,1750,0
+62,99,4,Two year,DSL,6138,0
+62,62,1,One year,No,3844,0
+7,119,3,Two year,DSL,833,0
+4,96,0,Two year,No,384,0
+6,26,3,One year,No,156,0
+58,119,5,Month,DSL,6902,0
+22,70,9,One year,DSL,1540,0
+26,92,3,Month,No,2392,0
+3,51,0,Month,No,153,0
+41,94,6,Two year,DSL,3854,0
+60,27,1,One year,DSL,1620,0
+14,116,8,Two year,No,1624,0
+12,106,2,Two year,No,1272,0
+12,108,7,Month,No,1296,0
+13,91,7,Two year,DSL,1183,0
+25,64,2,One year,No,1600,0
+45,105,3,Two year,Fiber,4725,0
+19,78,1,Two year,DSL,1482,0
+55,23,3,Month,No,1265,0
+45,86,8,One year,DSL,3870,0
+8,48,1,Two year,Fiber,384,0
+53,48,2,Month,DSL,2544,0
+55,117,3,Two year,No,6435,0
+32,117,4,One year,Fiber,3744,0
+51,47,0,Two year,Fiber,2397,0
+44,96,6,Two year,No,4224,0
+70,98,9,Month,No,6860,0
+18,106,6,Two year,No,1908,0
+22,63,8,Month,DSL,1386,0
+37,109,3,One year,DSL,4033,0
+56,23,5,Two year,DSL,1288,0
+59,109,1,One year,No,6431,0
+3,28,3,One year,No,84,0
+28,24,1,Two year,DSL,672,0
+35,75,9,Month,Fiber,2625,0
+61,115,4,One year,DSL,7015,0
+54,103,6,One year,Fiber,5562,0
+63,69,0,Two year,No,4347,0
+7,94,9,Two year,No,658,1
+49,34,9,Two year,DSL,1666,0
+31,51,6,Two year,DSL,1581,0
+58,47,9,Two year,No,2726,0
+61,41,5,Two year,DSL,2501,0
+24,36,5,Month,No,864,0
+20,78,7,One year,No,1560,0
+37,109,7,Month,Fiber,4033,0
+4,90,5,Month,DSL,360,0
+20,76,2,Two year,No,1520,0
+60,45,4,One year,DSL,2700,0
+24,44,1,Month,Fiber,1056,0
+50,29,4,Two year,Fiber,1450,0
+49,64,8,Two year,DSL,3136,0
+51,102,9,One year,DSL,5202,0
+36,30,0,Month,No,1080,0
+66,96,9,Month,Fiber,6336,0
+34,72,4,Month,Fiber,2448,0
+36,91,5,Two year,Fiber,3276,0
+6,87,6,One year,DSL,522,1
+39,114,8,One year,No,4446,0
+42,47,5,Month,DSL,1974,0
+58,94,4,Two year,DSL,5452,0
+12,84,6,Month,DSL,1008,0
+3,68,0,One year,No,204,0
+18,66,4,Two year,DSL,1188,0
+40,71,1,Month,Fiber,2840,0
+21,107,3,Month,Fiber,2247,0
+15,73,6,Two year,Fiber,1095,0
+26,79,4,One year,No,2054,0
+8,76,5,Two year,DSL,608,0
+42,66,1,Month,No,2772,0
+44,50,2,Month,DSL,2200,0
+14,65,6,Month,Fiber,910,0
+2,45,1,Month,DSL,90,0
+37,24,5,One year,DSL,888,0
+69,103,4,One year,DSL,7107,0
+38,71,9,Month,No,2698,0
+41,94,0,One year,DSL,3854,0
+62,73,9,One year,DSL,4526,0
+60,52,3,One year,DSL,3120,0
+14,69,1,Month,No,966,0
+2,57,3,Two year,No,114,0
+70,46,0,Two year,No,3220,0
+17,117,1,Two year,DSL,1989,0
+28,34,7,Month,Fiber,952,0
+66,115,5,One year,Fiber,7590,0
+35,80,1,One year,Fiber,2800,0
+5,40,5,Month,DSL,200,0
+65,65,9,Month,Fiber,4225,0
+40,88,8,Two year,Fiber,3520,0
+56,25,6,Two year,Fiber,1400,0
+36,57,8,Month,DSL,2052,0
+45,81,4,Two year,Fiber,3645,0
+23,105,6,One year,Fiber,2415,0
+47,81,6,Month,DSL,3807,0
+31,101,2,Month,No,3131,0
+11,97,6,One year,Fiber,1067,1
+10,93,0,One year,No,930,0
+67,65,8,One year,Fiber,4355,0
+14,32,9,Two year,DSL,448,0
+10,114,5,Month,No,1140,0
+1,113,4,Two year,No,113,0
+5,22,6,One year,No,110,1
+20,113,4,Two year,No,2260,0
+8,25,9,One year,Fiber,200,1
+43,112,4,Two year,Fiber,4816,0
+1,27,9,Two year,No,27,1
+57,63,6,One year,Fiber,3591,0
+64,52,9,Two year,No,3328,0
+28,100,6,Month,No,2800,0
+37,94,2,Two year,DSL,3478,0
+47,96,2,Two year,No,4512,0
+37,69,9,Month,Fiber,2553,0
+49,30,2,One year,No,1470,0
+44,114,5,Month,DSL,5016,0
+56,47,5,Two year,Fiber,2632,0
+28,89,2,One year,DSL,2492,0
+6,60,2,Two year,DSL,360,0
+61,35,7,Two year,No,2135,0
+20,87,7,Month,DSL,1740,0
+2,118,6,Month,DSL,236,1
+37,67,9,One year,Fiber,2479,0
+20,75,3,One year,DSL,1500,0
+26,83,3,One year,No,2158,0
+29,78,2,Two year,No,2262,0
+1,109,4,Month,No,109,0
+35,81,2,Month,DSL,2835,0
+70,95,7,Month,Fiber,6650,0
+59,30,6,One year,No,1770,0
+69,108,2,Month,DSL,7452,0
+33,37,8,Month,No,1221,0
+51,38,4,Month,No,1938,0
+12,106,8,One year,Fiber,1272,0
+20,74,6,Month,No,1480,0
+53,101,6,One year,Fiber,5353,0
+43,45,5,Month,DSL,1935,0
+50,25,1,Month,No,1250,0
+29,23,8,Month,DSL,667,0
+57,48,5,One year,DSL,2736,0
+39,78,7,One year,DSL,3042,0
+56,117,0,Month,No,6552,0
+43,36,4,Two year,Fiber,1548,0
+50,62,0,One year,No,3100,0
+23,99,9,One year,DSL,2277,0
+44,85,7,Month,Fiber,3740,0
+38,53,7,Two year,DSL,2014,0
+23,27,0,Month,Fiber,621,0
+45,32,8,One year,No,1440,0
+52,27,1,One year,Fiber,1404,0
+50,113,8,Month,No,5650,0
+8,115,0,Month,DSL,920,0
+1,119,9,Two year,Fiber,119,1
+8,113,8,Two year,DSL,904,1
+29,84,3,One year,Fiber,2436,0
+5,62,8,Two year,No,310,1
+47,58,6,Two year,Fiber,2726,0
+34,100,5,One year,Fiber,3400,0
+65,78,4,One year,No,5070,0
+55,103,8,One year,No,5665,0
+43,107,1,One year,No,4601,0
+30,105,1,Month,Fiber,3150,0
+17,112,8,One year,DSL,1904,0
+26,105,2,One year,Fiber,2730,0
+8,63,7,One year,Fiber,504,1
+47,28,8,Two year,DSL,1316,0
+46,56,7,One year,No,2576,0
+68,93,3,Month,Fiber,6324,0
+33,55,0,Month,DSL,1815,0
+1,111,3,One year,No,111,0
+19,47,8,Month,No,893,0
+31,61,1,Two year,Fiber,1891,0
+14,62,2,One year,No,868,0
+53,104,9,Month,No,5512,0
+48,107,7,Month,DSL,5136,0
+69,61,5,One year,DSL,4209,0
+62,85,7,Month,No,5270,0
+66,74,6,One year,DSL,4884,0
+64,91,4,Month,No,5824,0
+70,67,8,Two year,Fiber,4690,0
+63,110,3,Month,DSL,6930,0
+33,41,5,Month,No,1353,0
+41,46,1,One year,No,1886,0
+48,112,1,Month,DSL,5376,0
+13,86,1,One year,DSL,1118,0
+31,32,9,Two year,Fiber,992,0
+68,64,6,One year,No,4352,0
+4,29,1,One year,Fiber,116,0
+19,119,1,Month,Fiber,2261,0
+70,28,8,Two year,Fiber,1960,0
+13,73,6,One year,DSL,949,0
+23,46,2,Month,Fiber,1058,0
+1,53,2,Month,DSL,53,0
+54,20,6,One year,DSL,1080,0
+71,51,4,Month,Fiber,3621,0
+15,108,9,One year,Fiber,1620,0
+65,112,5,One year,No,7280,0
+71,90,7,One year,Fiber,6390,0
+15,86,8,Two year,No,1290,0
+21,103,0,One year,Fiber,2163,0
+19,39,2,Month,Fiber,741,0
+60,113,6,Two year,Fiber,6780,0
+33,54,5,Month,Fiber,1782,0
+49,118,6,Two year,No,5782,0
+35,110,7,Two year,No,3850,0
+44,109,5,Two year,Fiber,4796,0
+11,97,2,Two year,Fiber,1067,0
+66,36,1,Month,No,2376,0
+46,37,6,One year,DSL,1702,0
+9,64,0,Month,DSL,576,0
+3,112,2,One year,DSL,336,0
+26,103,3,Month,No,2678,0
+48,72,0,Two year,No,3456,0
+66,110,4,Two year,DSL,7260,0
+70,101,9,One year,DSL,7070,0
+28,87,2,One year,Fiber,2436,0
+26,84,1,Month,No,2184,0
+25,20,2,One year,No,500,0
+12,77,7,Month,DSL,924,0
+5,45,5,One year,DSL,225,0
+48,39,6,One year,No,1872,0
+37,106,5,One year,Fiber,3922,0
+44,29,5,Two year,DSL,1276,0
+15,78,2,Two year,No,1170,0
+43,94,7,Month,No,4042,0
+48,60,6,One year,Fiber,2880,0
+70,24,6,Month,Fiber,1680,0
+46,84,5,One year,DSL,3864,0
+43,36,4,Two year,DSL,1548,0
+21,41,9,Two year,DSL,861,0
+23,117,7,One year,No,2691,0
+47,60,4,One year,DSL,2820,0
+15,112,8,Two year,No,1680,0
+25,87,8,Two year,DSL,2175,0
+36,88,0,Month,Fiber,3168,0
+51,30,5,Two year,Fiber,1530,0
+15,75,6,One year,No,1125,0
+68,70,2,Month,Fiber,4760,0
+21,40,6,One year,No,840,0
+13,118,6,Month,No,1534,0
+19,95,1,One year,Fiber,1805,0
+34,45,6,Two year,No,1530,0
+68,38,0,One year,Fiber,2584,0
+52,79,4,Month,DSL,4108,0
+27,90,8,One year,DSL,2430,0
+29,66,6,Month,Fiber,1914,0
+28,90,6,One year,Fiber,2520,0
+35,45,1,Two year,Fiber,1575,0
+8,59,7,Two year,Fiber,472,1
+16,24,2,One year,DSL,384,0
+36,40,7,One year,No,1440,0
+30,97,2,One year,No,2910,0
+18,23,9,Month,DSL,414,0
+2,42,6,One year,No,84,1
+49,103,1,One year,DSL,5047,0
+4,34,3,Month,No,136,0
+7,112,5,Two year,Fiber,784,0
+39,27,8,One year,Fiber,1053,0
+13,60,4,One year,Fiber,780,0
+31,38,8,Two year,DSL,1178,0
+71,65,4,Two year,DSL,4615,0
+63,47,9,Month,No,2961,0
+56,110,7,One year,No,6160,0
+42,87,0,One year,No,3654,0
+61,34,6,Month,DSL,2074,0
+42,118,3,Two year,No,4956,0
+56,56,4,Month,Fiber,3136,0
+36,20,5,Two year,No,720,0
+68,86,4,Month,Fiber,5848,0
+7,43,0,Two year,DSL,301,0
+54,46,8,Month,Fiber,2484,0
+1,59,1,Two year,Fiber,59,0
+44,82,8,Two year,Fiber,3608,0
+45,80,9,Two year,DSL,3600,0
+47,55,1,Two year,DSL,2585,0
+13,117,8,Two year,DSL,1521,0
+22,112,5,One year,DSL,2464,0
+21,43,8,Two year,No,903,0
+9,43,5,One year,DSL,387,0
+26,23,5,Two year,Fiber,598,0
+9,86,1,One year,DSL,774,0
+15,53,7,One year,No,795,0
+10,76,2,Month,No,760,0
+42,68,6,Two year,No,2856,0
+24,106,4,Month,Fiber,2544,0
+49,72,2,Month,DSL,3528,0
+26,42,0,Two year,DSL,1092,0
+37,88,7,Month,DSL,3256,0
+68,114,2,Two year,Fiber,7752,0
+50,72,1,Month,Fiber,3600,0
+24,81,0,Two year,No,1944,0
+19,60,3,Two year,No,1140,0
+60,76,7,Two year,DSL,4560,0
+39,79,2,One year,Fiber,3081,0
+18,73,0,Month,Fiber,1314,0
+19,89,3,One year,DSL,1691,0
+36,76,8,Month,DSL,2736,0
+55,29,0,Month,No,1595,0
+69,59,1,Month,No,4071,0
+47,26,8,One year,No,1222,0
+49,57,1,Month,DSL,2793,0
+33,104,2,One year,DSL,3432,0
+21,80,6,Two year,No,1680,0
+22,103,2,Month,No,2266,0
+48,22,8,Month,Fiber,1056,0
+37,70,5,Two year,Fiber,2590,0
+15,105,2,Two year,No,1575,0
+35,66,8,Month,No,2310,0
+71,87,0,Two year,Fiber,6177,0
+32,111,9,One year,No,3552,0
+11,95,2,One year,Fiber,1045,0
+10,57,0,Month,Fiber,570,0
+57,55,1,One year,Fiber,3135,0
+25,60,7,One year,DSL,1500,0
+2,88,6,Month,DSL,176,1
+64,32,1,Two year,No,2048,0
+35,106,1,Month,Fiber,3710,0
+7,77,8,One year,DSL,539,1
+18,69,5,Month,No,1242,0
+67,49,4,Month,No,3283,0
+42,81,9,One year,No,3402,0
+39,44,5,One year,No,1716,0
+41,46,8,Month,No,1886,0
+24,70,6,One year,Fiber,1680,0
+60,97,9,One year,No,5820,0
+46,76,9,One year,Fiber,3496,0
+19,66,8,One year,DSL,1254,0
+68,119,3,One year,No,8092,0
+42,58,1,One year,DSL,2436,0
+32,35,7,Two year,Fiber,1120,0
+39,41,3,Month,Fiber,1599,0
+36,104,8,One year,DSL,3744,0
+36,73,3,Month,No,2628,0
+3,40,7,Two year,No,120,1
+8,91,8,One year,DSL,728,1
+70,35,8,Month,DSL,2450,0
+41,78,9,One year,DSL,3198,0
+68,50,3,One year,No,3400,0
+13,61,0,One year,No,793,0
+49,93,2,One year,No,4557,0
+60,51,8,One year,DSL,3060,0
+2,78,3,One year,No,156,0
+60,53,4,One year,Fiber,3180,0
+5,28,6,Two year,DSL,140,1
+44,100,4,Two year,No,4400,0
+27,30,3,One year,DSL,810,0
+32,115,1,One year,Fiber,3680,0
+21,29,1,Two year,Fiber,609,0
+8,105,3,Two year,DSL,840,0
+50,36,9,Two year,DSL,1800,0
+67,87,9,One year,Fiber,5829,0
+44,67,8,Month,DSL,2948,0
+58,71,7,Month,Fiber,4118,0
+3,44,2,Month,Fiber,132,0
+70,40,8,Month,No,2800,0
+2,84,4,One year,DSL,168,0
+44,82,2,Month,DSL,3608,0
+2,108,4,Two year,No,216,0
+35,70,9,Two year,Fiber,2450,0
+30,55,3,Month,DSL,1650,0
+8,100,7,Two year,No,800,1
+22,107,4,One year,No,2354,0
+44,85,9,Month,DSL,3740,0
+58,34,7,Month,No,1972,0
+36,115,8,One year,Fiber,4140,0
+69,58,3,Two year,No,4002,0
+31,89,6,One year,Fiber,2759,0
+47,20,1,One year,Fiber,940,0
+55,42,5,Two year,DSL,2310,0
+62,58,7,One year,No,3596,0
+30,76,6,Two year,Fiber,2280,0
+55,100,6,Two year,Fiber,5500,0
+16,53,7,One year,No,848,0
+12,60,6,Two year,Fiber,720,0
+17,112,4,One year,No,1904,0
+16,92,6,Two year,DSL,1472,0
+12,32,9,Month,Fiber,384,0
+8,89,2,Two year,Fiber,712,0
+3,25,4,Two year,No,75,0
+16,103,6,One year,No,1648,0
+30,71,8,Two year,No,2130,0
+23,22,1,Month,No,506,0
+5,100,3,Month,Fiber,500,0
+65,82,6,Two year,DSL,5330,0
+30,68,0,Two year,DSL,2040,0
+21,95,1,Month,DSL,1995,0
+70,66,8,One year,DSL,4620,0
+22,74,9,Month,No,1628,0
+32,83,6,Month,Fiber,2656,0
+33,84,9,Two year,Fiber,2772,0
+16,100,6,Two year,Fiber,1600,0
+38,86,5,Month,No,3268,0
+14,109,2,One year,Fiber,1526,0
+36,34,9,Month,No,1224,0
+23,119,2,Month,Fiber,2737,0
+66,51,1,One year,DSL,3366,0
+2,115,5,Month,No,230,0
+65,87,3,Month,Fiber,5655,0
+67,37,4,Two year,DSL,2479,0
+52,102,2,One year,DSL,5304,0
+62,62,5,Two year,DSL,3844,0
+23,54,2,Two year,No,1242,0
+26,97,7,One year,No,2522,0
+68,77,8,One year,Fiber,5236,0
+55,52,3,Month,DSL,2860,0
+6,33,8,Two year,Fiber,198,1
+35,53,6,One year,Fiber,1855,0
+22,80,2,Two year,DSL,1760,0
+43,23,6,Two year,Fiber,989,0
+15,107,0,One year,No,1605,0
+60,78,2,Month,Fiber,4680,0
+12,48,5,Two year,DSL,576,0
+49,102,3,One year,No,4998,0
+42,25,6,Month,No,1050,0
+38,116,2,Two year,Fiber,4408,0
+45,68,0,One year,Fiber,3060,0
+35,59,8,Two year,No,2065,0
+30,102,5,One year,Fiber,3060,0
+30,84,7,One year,DSL,2520,0
+6,88,2,Two year,Fiber,528,0
+67,46,7,Two year,Fiber,3082,0
+7,99,1,One year,No,693,0
+52,25,3,Month,Fiber,1300,0
+14,32,2,Two year,Fiber,448,0
+15,83,9,One year,Fiber,1245,0
+21,81,0,One year,DSL,1701,0
+35,118,6,Month,Fiber,4130,0
+66,38,9,Month,DSL,2508,0
+2,95,1,Month,DSL,190,0
+35,99,3,Two year,DSL,3465,0
+20,62,8,One year,DSL,1240,0
+10,93,5,One year,No,930,0
+25,108,7,One year,DSL,2700,0
+66,39,1,Month,Fiber,2574,0
+25,114,6,One year,DSL,2850,0
+54,87,5,Two year,Fiber,4698,0
+33,63,8,Month,DSL,2079,0
+36,42,6,Month,No,1512,0
+14,21,0,Month,DSL,294,0
+65,41,7,Month,DSL,2665,0
+54,76,9,Two year,No,4104,0
+52,91,2,One year,DSL,4732,0
+3,26,1,Two year,Fiber,78,0
+41,97,2,One year,DSL,3977,0
+6,75,5,Two year,DSL,450,0
+25,86,2,Month,DSL,2150,0
+13,35,9,Month,No,455,0
+8,102,4,Two year,DSL,816,0
+21,70,5,Two year,DSL,1470,0
+68,101,7,One year,Fiber,6868,0
+25,99,6,Two year,DSL,2475,0
+68,91,7,Two year,DSL,6188,0
+45,116,2,One year,DSL,5220,0
+60,31,3,One year,DSL,1860,0
+12,72,5,One year,Fiber,864,0
+32,94,6,Two year,Fiber,3008,0
+13,24,8,One year,No,312,0
+31,46,0,Month,DSL,1426,0
+20,31,7,Month,No,620,0
+18,36,7,Month,No,648,0
+60,25,5,Two year,DSL,1500,0
+63,116,3,Month,Fiber,7308,0
+6,24,2,Two year,Fiber,144,0
+32,76,2,Two year,DSL,2432,0
+43,47,5,Month,DSL,2021,0
+2,97,7,One year,Fiber,194,1
+60,88,6,Two year,DSL,5280,0
+23,78,0,Month,DSL,1794,0
+31,52,5,Two year,DSL,1612,0
+5,81,6,One year,Fiber,405,1
+34,69,6,One year,No,2346,0
+10,38,8,Month,No,380,1
+2,105,9,Two year,DSL,210,1
+11,88,4,Two year,Fiber,968,0
+50,85,0,Two year,DSL,4250,0
+31,113,1,Two year,Fiber,3503,0
+56,66,3,Month,DSL,3696,0
+9,58,4,One year,Fiber,522,0
+21,87,8,Month,Fiber,1827,0
+28,52,0,Two year,No,1456,0
+62,32,2,Two year,DSL,1984,0
+7,103,4,One year,No,721,0
+16,73,2,Two year,No,1168,0
+4,26,3,Month,Fiber,104,0
+4,98,2,Month,DSL,392,0
+40,106,3,One year,Fiber,4240,0
+17,33,0,Month,Fiber,561,0
+52,106,7,Month,Fiber,5512,0
+52,38,3,Month,DSL,1976,0
+36,73,6,Month,DSL,2628,0
+38,112,1,Two year,Fiber,4256,0
+50,39,1,Month,DSL,1950,0
+63,48,5,One year,Fiber,3024,0
+63,43,1,One year,DSL,2709,0
+62,101,5,Month,DSL,6262,0
+7,82,1,One year,No,574,0
+27,93,3,Month,Fiber,2511,0
+14,76,6,One year,No,1064,0
+71,27,7,One year,No,1917,0
+5,109,2,Month,Fiber,545,0
+55,81,8,Month,Fiber,4455,0
+2,48,1,Two year,DSL,96,0
+62,93,7,Month,Fiber,5766,0
+21,36,7,Month,No,756,0
+21,85,3,Two year,No,1785,0
+10,25,0,Month,Fiber,250,0
+58,77,0,Month,No,4466,0
+39,88,1,Two year,DSL,3432,0
+5,47,8,Month,No,235,1
+65,81,1,Month,DSL,5265,0
+13,60,1,Two year,No,780,0
+53,88,5,Two year,DSL,4664,0
+45,101,6,One year,DSL,4545,0
+32,109,6,Month,Fiber,3488,0
+36,103,8,One year,DSL,3708,0
+60,60,5,One year,Fiber,3600,0
+11,68,7,Two year,No,748,1
+63,110,5,Month,No,6930,0
+21,68,1,Month,No,1428,0
+52,95,0,Two year,DSL,4940,0
+55,90,4,One year,No,4950,0
+26,22,8,Two year,No,572,0
+68,29,7,Month,Fiber,1972,0
+34,117,3,Two year,Fiber,3978,0
+52,108,4,Month,No,5616,0
+52,54,4,One year,No,2808,0
+29,99,5,Month,DSL,2871,0
+38,21,2,One year,DSL,798,0
+42,43,4,One year,No,1806,0
+21,93,1,Month,Fiber,1953,0
+42,57,9,Month,No,2394,0
+13,41,0,One year,DSL,533,0
+64,45,0,Two year,Fiber,2880,0
+17,62,9,Month,Fiber,1054,0
+9,74,6,One year,DSL,666,1
+41,58,1,One year,No,2378,0
+1,110,3,Two year,No,110,0
+2,48,4,Month,No,96,0
+60,39,6,One year,DSL,2340,0
+48,110,1,Two year,Fiber,5280,0
