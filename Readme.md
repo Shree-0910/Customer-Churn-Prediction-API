@@ -181,6 +181,43 @@ Joblib
 
 ---
 
+## 🌍 Live API Demo (Render Deployment)
+
+The model is deployed as a public Flask API on Render.
+
+Base URL
+
+https://customer-churn-prediction-api-fzu9.onrender.com
+
+---
+
+## 🔗 Prediction Endpoint
+
+POST /predict
+
+### Sample Request
+{
+
+      "features": [5, 80, 7, 0, 1, 400]
+
+}
+
+### Sample Response
+{
+    
+      "prediction": "Customer will Stay"
+
+}
+
+### 📸 Deployment Proof
+
+
+<img width="851" height="1016" alt="image" src="https://github.com/user-attachments/assets/ea067c5e-1c3f-421c-af5d-74e40968ce2d" />
+
+
+
+
+
 ## 👨‍💻 Author
 
 Shreyash Gade  
